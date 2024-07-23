@@ -19,6 +19,10 @@ ChatWithPDFs is an interactive Streamlit web application that allows users to en
 - **HuggingFaceHub**: For integrating large language models.
 - **Tavily**: For querying the internet to fetch additional information.
 - **HTML/CSS**: Custom styling for the chat interface.
+  
+## Install local models
+GPT4All is a locally run model and downloading this model is the major pre-requisite for execution of this project. 
+[Download from here](https://www.nomic.ai/gpt4all)
 
 ## Installation
 1. **Clone the repository**:
